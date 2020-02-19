@@ -1,0 +1,7 @@
+{
+  "name": "netlify-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "uptown <uptownhr@gmail.com>",
+  "license": "MIT"
+}
