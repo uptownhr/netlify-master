@@ -28,19 +28,3 @@
   GROWSUMO_PUBLIC_KEY = "pk_yDGDHtRzmTpuF967zkyeuiivb4z4Z4f3"
   CALENDLY_SALES_CORE_LINK='bambee-core-sales'
   CALENDLY_SALES_ENTERPRISE_LINK='bambee-enterprise-sales'
-
-[context.dev.environment]
-  PROXY_API_URL = "https://api.bambee.tech"
-  NODE_ENV = 'dev'
-  PRIMARY_DOMAIN = 'dev.bambee.com'
-  STRIPE_PUBLIC = 'pk_test_QCxwcaAdFzecfQ2ZUjS73k8F'
-  SENTRY_PUBLIC = 'https://5e6a7878ea464965843777a211d3057c@sentry.io/1434023'
-  GOOGLE_MAPS = 'AIzaSyD4LGFMb4HDSuJ8WtzvY6qxJc241V3Kjvk'
-  APP = 'dev.app.bambee.com'
-  WWW = 'dev.bambee.com'
-  GET = 'dev.get.bambee.com'
-  INTERCOM_APP_ID = "fee9g0zn"
-  SEGMENT_WEBSITE_WWW='knlvaM189EWyjXLSZ03j6BQB2XYCz69K'
-  GROWSUMO_PUBLIC_KEY = "pk_W1dXqjkRZugiL9ib3YrlRoT7TKr4ALt9"
-  CALENDLY_SALES_CORE_LINK='bambee-hr-ov-test'
-  CALENDLY_SALES_ENTERPRISE_LINK='bambee-test-enterprise-sales'
